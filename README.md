@@ -1,2 +1,2 @@
 # Grigeo
-Grigeo puslapis
+Grigeo page replica
