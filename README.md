@@ -1,2 +1,2 @@
 # Grigeo
-Grigeo page replica(copy)
+Grigeo page replica
