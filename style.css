@@ -10,7 +10,9 @@ a {
 a:hover {
   color: #00d100;
   transition: 300ms;
+
   /* Perejimas */
+
 }
 
 img {
@@ -283,6 +285,7 @@ footer nav a:hover {
 }
 
 /* Tablet */
+
 @media only screen and (min-width: 768px) and (max-width: 968px) {
   .nav-secondary {
     display: none;
@@ -303,6 +306,7 @@ footer nav a:hover {
 }
 
 /* Phone */
+
 @media only screen and (max-width: 768px) {
   .top-bar-header {
     height: 100%;
@@ -371,3 +375,5 @@ footer nav a:hover {
     margin-bottom: 10px;
   }
 }
+
+/* pabaiga */
